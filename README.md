@@ -22,26 +22,30 @@ It allows users to register their KYC data on-chain and enables authorized verif
 🏗️ Tech Stack
 Backend / Blockchain
 
-Solidity
+1)Solidity
 
-Hardhat
+2)Hardhat
 
-Ethers.js
+3)Ethers.js
 
-TypeScript
+4)TypeScript
 
-Frontend
+5)Frontend
 
-React
+6)React
 
-Vite
+7)Vite
 
-Ethers.js
+8)Ethers.js
 
-MetaMask
+9)MetaMask
+
 
 📁 Project Structure
+
 <img width="593" height="317" alt="image" src="https://github.com/user-attachments/assets/6bd4b73d-5c66-4803-8c6d-733027dee4b9" />
+
+
 
 ⚙️ Setup & Run Locally
 1️⃣ Clone the repository
@@ -92,54 +96,50 @@ Import any private key shown by Hardhat node
 
 🖼️ Application Screenshots
 
-📌 Place all images inside a folder called screenshots/ in the root of the repo.
+
 
 🔹 Hardhat Local Blockchain Running
 
+<img width="1155" height="1115" alt="B1" src="https://github.com/user-attachments/assets/b85c7e58-c978-434c-b60f-cf01210b107a" />
+
+
+
 🔹 Smart Contract Deployment
+<img width="952" height="625" alt="B2" src="https://github.com/user-attachments/assets/e030f9a0-c55b-439f-837c-6623203e6d0f" />
+
+
 
 🔹 Frontend Running (Vite)
 
+<img width="1141" height="512" alt="B3" src="https://github.com/user-attachments/assets/dd1db246-58c0-434d-b485-024a42868e49" />
+
+
 🔹 Main Application Dashboard
+
+<img width="1128" height="988" alt="f1" src="https://github.com/user-attachments/assets/1bffaa42-47cf-4fd6-8465-601376fa4747" />
+
 
 🔹 MetaMask Transaction Popup
 
+<img width="1352" height="967" alt="f2" src="https://github.com/user-attachments/assets/03f75dfc-e695-4034-9cbf-4d382c464d96" />
+
+
 🔹 KYC Registered (Pending Verification)
+
+<img width="737" height="673" alt="f3" src="https://github.com/user-attachments/assets/4f0c781b-af4c-4dcd-a9b1-d47b74cb81d9" />
+
 
 🔹 Verifier Added Successfully
 
+<img width="1235" height="1047" alt="f4" src="https://github.com/user-attachments/assets/f1634388-5efb-423f-988c-55820ac74f13" />
+
+
 🔹 Verification Attempt (Failed Case)
 
-🔄 Application Flow
+<img width="1263" height="1018" alt="f5" src="https://github.com/user-attachments/assets/1ca527bc-6162-42a1-a961-d5dc332c4790" />
 
-User connects MetaMask wallet
 
-User registers KYC hash on blockchain
 
-KYC status is set to Pending
 
-Admin adds verifier
-
-Verifier verifies or rejects user
-
-Status is updated immutably on-chain
-
-🔐 Security Notes
-
-Private keys shown are Hardhat test accounts only
-
-Never use these keys on mainnet
-
-Contracts are deployed locally for development
-
-📌 Future Improvements
-
-IPFS integration for document storage
-
-Role-based access control
-
-Multiple verifier consensus
-
-Deployment to testnet (Sepolia / Holesky)
 
 UI improvements & error handling
