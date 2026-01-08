@@ -41,17 +41,7 @@ Ethers.js
 MetaMask
 
 📁 Project Structure
-TrustChain/
-├── BlockchainEKYC/        # Smart contracts & Hardhat backend
-│   ├── contracts/
-│   ├── scripts/
-│   ├── test/
-│   └── hardhat.config.ts
-│
-├── BlockchainEKYC-UI/     # React frontend
-│   ├── src/
-│   ├── public/
-│   └── vite.config.js
+<img width="593" height="317" alt="image" src="https://github.com/user-attachments/assets/6bd4b73d-5c66-4803-8c6d-733027dee4b9" />
 
 ⚙️ Setup & Run Locally
 1️⃣ Clone the repository
