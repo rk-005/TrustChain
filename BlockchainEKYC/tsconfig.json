@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "NodeNext",                 // if you want NodeNext modules
+    "moduleResolution": "NodeNext",       // <<--- required when module is NodeNext
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "outDir": "dist",
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "types": ["node", "mocha", "chai"]
+  },
+  "include": ["./scripts", "./test", "./typechain", "./hardhat.config.ts", "./tasks"],
+  "exclude": ["node_modules"]
+}
