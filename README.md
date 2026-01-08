@@ -43,7 +43,7 @@ Backend / Blockchain
 
 📁 Project Structure
 
-<img width="593" height="317" alt="image" src="https://github.com/user-attachments/assets/6bd4b73d-5c66-4803-8c6d-733027dee4b9" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bd4b73d-5c66-4803-8c6d-733027dee4b9" />
 
 
 
